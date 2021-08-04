@@ -1,0 +1,117 @@
+﻿{
+  "status": 0,
+  "data": [
+    {
+      "date": "2021-05-25",
+      "orgName": "中华人民共和国驻日本大使馆",
+      "beSpeakNumber": "",
+      "periodOfTimeList": [
+        {
+          "periodid": "cff342854c1144dcae147e1327856f2d",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "peopleNumber": 50,
+          "userNumber": 50
+        },
+        {
+          "periodid": "0b61f26b29f54264b58580ba82837127",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "peopleNumber": 70,
+          "userNumber": 70
+        },
+        {
+          "periodid": "e9e333cfa9b442f4bc1ff0153a915090",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "peopleNumber": 30,
+          "userNumber": 30
+        }
+      ]
+    },
+    {
+      "date": "2021-05-26",
+      "orgName": "中华人民共和国驻日本大使馆",
+      "beSpeakNumber": "",
+      "periodOfTimeList": [
+        {
+          "periodid": "762b7cc639bf45889c921a50cce29b27",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "peopleNumber": 50,
+          "userNumber": 50
+        },
+        {
+          "periodid": "3340072aecd747058d2b816b18eb797d",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "peopleNumber": 70,
+          "userNumber": 70
+        },
+        {
+          "periodid": "a788a834906e4ddfa700b8a1e25eb6ca",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "peopleNumber": 30,
+          "userNumber": 30
+        }
+      ]
+    },
+    {
+      "date": "2021-05-27",
+      "orgName": "中华人民共和国驻日本大使馆",
+      "beSpeakNumber": "",
+      "periodOfTimeList": [
+        {
+          "periodid": "b132b40cd12c469bb5c7dfad8c0b9e21",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "peopleNumber": 50,
+          "userNumber": 50
+        },
+        {
+          "periodid": "3a84c8439ac34a62b76867f0ac59299d",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "peopleNumber": 70,
+          "userNumber": 70
+        },
+        {
+          "periodid": "c479b2b73a624b18b15302e7de112a63",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "peopleNumber": 30,
+          "userNumber": 30
+        }
+      ]
+    },
+    {
+      "date": "2021-05-28",
+      "orgName": "中华人民共和国驻日本大使馆",
+      "beSpeakNumber": "",
+      "periodOfTimeList": [
+        {
+          "periodid": "e19f12811d684b25b724ec4239500c53",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "peopleNumber": 50,
+          "userNumber": 50
+        },
+        {
+          "periodid": "1c3db1cd4ae34065bae29fc322a9d017",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "peopleNumber": 70,
+          "userNumber": 70
+        },
+        {
+          "periodid": "e00cb60969ad4822891f4f178e3e6f3f",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "peopleNumber": 30,
+          "userNumber": 30
+        }
+      ]
+    }
+  ]
+}

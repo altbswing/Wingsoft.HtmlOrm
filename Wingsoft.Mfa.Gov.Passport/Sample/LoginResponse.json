@@ -1,0 +1,11 @@
+﻿{
+  "status": 0,
+  "data": {
+    "cancelReservation": 1,
+    "isallow": 0,
+    "modificationTimes": 1,
+    "istemporary": 0,
+    "orgID": "JPNA",
+    "scheduleResType": "reservationreview.html"
+  }
+}
